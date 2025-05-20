@@ -22,7 +22,7 @@ A RESTful authentication service built with Django REST Framework, featuring JWT
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/emkr-13/lat_auth_django.git
 cd lat_auth_django
 ```
 
